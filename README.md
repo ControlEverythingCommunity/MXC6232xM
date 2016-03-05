@@ -37,5 +37,5 @@ Download (or git pull) the code in pi. Run the program
 $> python MXC6232xM.py
 ```
 
-The code output is raw value of acceleration in X, Y Axes.
+The code output is raw values of acceleration in X, Y Axes.
 
