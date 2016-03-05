@@ -1,4 +1,4 @@
-[![MXC6232xM_I2C](MXC6232xM_I2CS.png)](https://www.controleverything.com/content/Accelorometer?sku=MXC6232xM_I2CS)
+[![MXC6232xM](MXC6232xM_I2C.png)](https://www.controleverything.com/content/Accelorometer?sku=MXC6232xM_I2CS)
 # MXC6232xM
 MXC6232xM High Accuracy Temperature Sensor 
 
