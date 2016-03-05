@@ -1,6 +1,6 @@
 [![MXC6232xM](MXC6232xM_I2C.png)](https://www.controleverything.com/content/Accelorometer?sku=MXC6232xM_I2CS)
 # MXC6232xM
-MXC6232xM High Accuracy Temperature Sensor 
+MXC6232xM Dual Axis Accelerometer 
 
 The MXC6232xM device, provides fully integrated I2C thermal X, Y-Axis Accelerometer.
 This Device is available from ControlEverything.com [SKU: MXC6232xM_I2CS]
