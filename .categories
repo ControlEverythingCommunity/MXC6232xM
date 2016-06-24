@@ -1,4 +1,5 @@
 lang:java
 lang:python
 lang:arduino
+lang:C
 sku:MXC6232xM_I2CS
