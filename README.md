@@ -8,7 +8,7 @@ This Device is available from ControlEverything.com [SKU: MXC6232xM_I2CS]
 
 https://www.controleverything.com/content/Accelorometer?sku=MXC6232xM_I2CS
 
-This Sample code can be used with Raspberry pi and Arduino.
+This Sample code can be used with Raspberry pi, Arduino and Beaglebone Black.
 
 ## Java 
 Download and install pi4j library on Raspberry pi. Steps to install pi4j are provided at:
@@ -46,6 +46,18 @@ https://www.arduino.cc/en/Main/Software
 Download (or git pull) the code and double click the file to run the program.
  
 Compile and upload the code on Arduino IDE and see the output on Serial Monitor.
- 
+
+## C
+
+Download (or git pull) the code in Beaglebone Black.
+
+Compile the c program.
+```cpp
+$>gcc MXC6232xM.c -o MXC6232xM
+```
+Run the c program.
+```cpp
+$>./MXC6232xM
+```
 #####The code output is raw values of acceleration in X and Y Axis.
 
