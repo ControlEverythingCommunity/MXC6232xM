@@ -54,7 +54,7 @@ void main()
 		}
 
 		// Output data to screen
-		printf("X-Axis : %d \n", xAccl);
-		printf("Y-Axis : %d \n", yAccl);
+		printf("Acceleration in X-Axis : %d \n", xAccl);
+		printf("Acceleration in Y-Axis : %d \n", yAccl);
 	}
 }
