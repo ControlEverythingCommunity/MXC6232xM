@@ -35,7 +35,7 @@ void main()
 	char data[5] = {0};
 	if(read(file, data, 5) != 5)
 	{
-		printf("Erorr : Input/output Erorr \n");
+		printf("Error : Input/Output error \n");
 		exit(1);
 	}
 	else
